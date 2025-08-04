@@ -8,3 +8,5 @@ Engenharia de Software Moderna: https://engsoftmoderna.info/cap7.html
 Biblioteca da Univille: https://integrada.minhabiblioteca.com.br
 
 Repositório do professor Walter Coan: https://github.com/waltercoan/das-1-2025-2-b
+
+Ferramente que estou utilizando para verificar como está ficando o .md: https://markdownlivepreview.com/
