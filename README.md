@@ -10,3 +10,5 @@ Biblioteca da Univille: https://integrada.minhabiblioteca.com.br
 Repositório do professor Walter Coan: https://github.com/waltercoan/das-1-2025-2-b
 
 Ferramente que estou utilizando para verificar como está ficando o .md: https://markdownlivepreview.com/
+
+Site sobre Design-Patterns: https://refactoring.guru/pt-br/design-patterns
