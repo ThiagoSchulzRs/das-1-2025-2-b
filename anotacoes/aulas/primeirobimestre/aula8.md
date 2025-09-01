@@ -2,7 +2,7 @@
 
 ### **Revisão aula passada (25/08):**
 
-Muicho código. (Observer no )
+Muicho código. (Observer no designpatterns)
 
 ## **Preparando o ambiente:** 
 
