@@ -24,27 +24,21 @@ Pensar como arquiteto envolve quatro aspectos principais.
 
 O arquiteto fica responsável por passar a "planta" do projeto e orientar o engenheiro sobre como ele vai utilizar essa estrutura e desenvolver o sistema.
 
-![Imagem do fluxo mais atual da ](https://jigsaw.minhabiblioteca.com.br/books/9788550819754/epub/OEBPS/image/fosa_0202.jpg)
-
 #### Arquitetura:
-
 - Qual será o banco de dados utilizado?
 - Qual framework ou linguagem de programação é mais adequada?
 - Quais módulos ou componentes o sistema vai ter?
 
 #### Design:
-
 - Como os componentes vão interagir entre si?
 - Como vamos organizar as classes e métodos?
 - Qual será o fluxo de comunicação entre os serviços?
 
 ### Como é a formação do conhecimento de um arquiteto modelo T?
 
-![FPiramide de aprendizado](https://jigsaw.minhabiblioteca.com.br/books/9788550819754/epub/OEBPS/image/fosa_0205.jpg)
+Imagine uma pirêmide onde no topo dela fica os "Conhecimentos que você sabe", logo a baixo, no segundo nível, fica os "Conhecimentos que você sabe qie não sabe", e abaixo deles está a base da pirâmide, que estão os "Conhecimentos que você não sabe que não sabe". Nessa piramide, a amplitude tecnica é o seu tamanho e a profundidade são esses níveis de conhecimentos e quanto você sabe deles.
 
-Você começa expandindo o seus conhecimentos, aumentando o tamanho do topo da pirâmide e, ao mesmo tempo, expandindo o tamanho da parte do meio.  Assim, para um arquiteto, o curso de ação inteligente seria sacrificar uma especialização duramente conquistada e usar esse tempo para ampliar seu portfólio, conforme a figura a seguir: 
-
-![FPiramide de aprendizado](https://jigsaw.minhabiblioteca.com.br/books/9788550819754/epub/OEBPS/image/fosa_0206.jpg)
+Você começa expandindo o seus conhecimentos, aumentando o tamanho do topo da pirâmide e, ao mesmo tempo, expandindo o tamanho da parte do meio.  Assim, para um arquiteto, o curso de ação inteligente seria sacrificar uma especialização duramente conquistada e usar esse tempo para ampliar seu portfólio. Imaginando isso na pirâmide, a gente focaria o aprendizado, explorando conhecimentos que não sabemos (Por isso do termo "Modelo T", pois aprofundamos diretamente para baixo da pirâmide) 
 
 Por sua vez, isso leva a duas disfunções comuns:
 - Um arquiteto tenta manter a especialização de várias áreas, sem sucesso em nenhuma delas e se martirizando no processo. 
