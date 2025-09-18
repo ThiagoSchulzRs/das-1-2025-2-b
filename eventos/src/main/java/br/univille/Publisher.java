@@ -11,18 +11,19 @@ public class Publisher {
         var servidor = "sbdas12025a.servicebus.windows.net";
 
         String chave = System.getenv("CHAVE");
-        
-        //DefaultAzureCredential credential = new DefaultAzureCredentialBuilder().build();
+
+        // DefaultAzureCredential credential = new
+        // DefaultAzureCredentialBuilder().build();
 
         ServiceBusSenderClient senderClient = new ServiceBusClientBuilder()
-            .fullyQualifiedNamespace(servidor)
-            .transportType(AmqpTransportType.AMQP_WEB_SOCKETS)
-            //.credential(credential)
-            .connectionString(chave)
-            .sender()
-            .topicName(topicName)
-            .buildClient();
+                .fullyQualifiedNamespace(servidor)
+                .transportType(AmqpTransportType.AMQP_WEB_SOCKETS)
+                // .credential(credential)
+                .connectionString(chave)
+                .sender()
+                .topicName(topicName)
+                .buildClient();
 
-            senderClient.sendMessage(new ServiceBusMessage("Thiago: Mintira"));
+        senderClient.sendMessage(new ServiceBusMessage("Thiago: Eu quero cafééééé"));
     }
 }
