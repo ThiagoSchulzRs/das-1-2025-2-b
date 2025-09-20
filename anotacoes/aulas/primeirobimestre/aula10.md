@@ -1,6 +1,6 @@
 # Aula do dia 04/09/2025.
 
-### **Revisão aula passada (02/09):**
+### **Revisão aula passada (01/09):**
 
 As expectativas de um Arquiteto: Existem oito expectativas principais para um arquiteto de software, independentemente de qualquer função, cargo ou descrição do trabalho. (Olhar aula passada para ver cada um)
 

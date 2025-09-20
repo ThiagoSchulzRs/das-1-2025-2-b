@@ -1,5 +1,12 @@
 # Aula do dia 04/08/2025.
 
+### **Revisão aula passada (31/07):**
+- Orientação a objetos:
+- Abstração: é a ocultação de informação, que protege detalhes suscetíveis a mudanças expondo apenas uma interface estável.
+- Padrões de código: formalizam soluções recorrentes para problemas estruturais.
+- Frameworks: estrutura guia com padrões e ferramentas reusáveis para desenvolver programas computacionais de forma rápida; ou seja, é uma abstração que une códigos…
+- Complexidade: sistemas de softwares geralmente crescem conforme escopo, funcionalidades e interações. Isto os torna mais complexos conforme o tempo. 
+
 ### **Classes (Revisão):**
 Classes guardam o estado de um cliente e o comportamento (metodos/funções), e quando guardamos algo em uma classe, estamos guardando os dados do cliente.
 

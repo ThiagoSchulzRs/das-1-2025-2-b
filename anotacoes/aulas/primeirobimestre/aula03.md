@@ -40,6 +40,14 @@ Em resumo, a coesão em software é sistema ter o mínimo de código para fazer 
 ### **Outros Materiais**
 Observação: precisa entrar primeiro na biblioteca da Univille.
 
-**Código Limpo: Habilidades Práticas do Agile Software** (2008): livro sobre como padronizar variaveis elementos, como organizar o código, etc. Escrito por Robert c. Martin, um carinha MUITO importante da nossa área. Link: https://login.vitalsource.com/?redirect_uri=https%3A%2F%2Fintegrada.minhabiblioteca.com.br%2Freader%2Fbooks%2F9788550816043%2Fpageid%2F0&brand=integrada.minhabiblioteca.com.br
+**Código Limpo: Habilidades Práticas do Agile Software** (2008): livro sobre como padronizar variaveis elementos, como organizar o código, etc. Escrito por Robert c. Martin, um carinha MUITO importante da nossa área. 
 
-**Padrões de Projetos(2000):** feito por Erich Gama, é um livro mais complexto que fala sobre arquitetura em projetos. Link: https://integrada.minhabiblioteca.com.br/reader/books/9788577800469/pageid/0
+```
+https://login.vitalsource.com/?redirect_uri=https%3A%2F%2Fintegrada.minhabiblioteca.com.br%2Freader%2Fbooks%2F9788550816043%2Fpageid%2F0&brand=integrada.minhabiblioteca.com.br
+```
+
+**Padrões de Projetos(2000):** feito por Erich Gama, é um livro mais complexto que fala sobre arquitetura em projetos. 
+
+```
+Link: https://integrada.minhabiblioteca.com.br/reader/books/9788577800469/pageid/0
+```

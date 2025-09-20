@@ -23,4 +23,4 @@ Frameworks fornecem uma estrutura técnica mais rígida do que bibliotecas conve
 A complexibilidade de um sistema de software geralmente cresce conforme escopo, funcionalidades e interações evoluem. Para torná-la gerenciável, recorre-se à abstração, que consiste em representar entidades complexas por interfaces simplificadas, destacando apenas os aspectos relevantes. Por exemplo, uma classe Carro pode expor apenas métodos públicos como acelerar() e frear(), enquanto detalhes internos do motor ficam ocultos. Esse tipo de abordagem reduz o esforço cognitivo e facilita alterações futuras sem impactar quem usa a classe 
 
 #### Outros Assuntos:
- Progess da DataSul (Um exemplo de Arquitetura "bem" escolhida)
+ Progess da DataSul (Um exemplo de Arquitetura bem escolhida)

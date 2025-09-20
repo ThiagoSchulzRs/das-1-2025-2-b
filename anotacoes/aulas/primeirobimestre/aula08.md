@@ -1,6 +1,6 @@
 # Aula do dia 28/08/2025.
 
-### **Revisão aula passada (25/08):**
+### **Revisão aula passada (21/08):**
 
 Muicho código. (Observer no designpatterns)
 

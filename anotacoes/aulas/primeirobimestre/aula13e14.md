@@ -1,6 +1,6 @@
-# Aula do dia 11/09/2025.
+# Aula do dia 15/09 e 19/09/2025.
 
-### **Revisão aula passada (14/08):**
+### **Revisão aulas passadas (11/09):**
 
 Rodamos o Github workspace e criamos o publisher e subscribers explicados na aula passada, este inicio foi feito em "eventos".
 
@@ -9,3 +9,4 @@ Rodamos o Github workspace e criamos o publisher e subscribers explicados na aul
 Estamos utilizando a plataforma do azure: https://portal.azure.com/
 
 **Anotações:**
+Muito muito código e certas mensagens preocupantes aparecendo no terminal.

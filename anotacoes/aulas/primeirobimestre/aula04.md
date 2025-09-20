@@ -1,6 +1,6 @@
 # Aula do dia 11/08/2025.
 
-### **Revisão aula passada:**
+### **Revisão aula passada (07/08):**
 Responsabilidade única:Cada metodo faz somente uma coisa e bem feito.
 
 Princípio da Segregação de Interfaces: No exemplo da aula anterior, uma interface captura o click e a outra o movimento do mouse, ou seja, cada interface tem um objetivo.

@@ -20,6 +20,8 @@ Existem oito expectativas principais para um arquiteto de software, independente
 
 - **Tomar decisões de arquitetura:** estabelecer as decisões da arquitetura e os princípios do design usados para orientar as decisões de tecnologia dentro da equipe, do departamento ou em toda a empresa.
 
+- **Definir e comunicar decisões de arquitetura:** documentar e compartilhar claramente as decisões de arquitetura tomadas, garantindo que toda a equipe entenda e siga as diretrizes estabelecidas.
+
 - **Analisar continuamente a arquitetura:** analisar continuamente a arquitetura e o ambiente de tecnologia atual, para então recomendar soluções de melhorias.
 
 - **Manter-se atualizado com as últimas tendências:** ficar atualizado com as últimas tendências da tecnologia e do setor.
