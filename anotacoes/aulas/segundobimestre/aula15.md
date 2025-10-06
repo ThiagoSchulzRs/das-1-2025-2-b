@@ -1,8 +1,8 @@
-# Aula do dia 28/08/2025.
+# Aula do dia 02/10/2025.
 
-### **Revisão das aulas passadas (19/09 - 29/10):**
+### **Revisão das aulas passadas (19/09, 25/09 29/09):**
 
-Prova e organizar o Github.
+Prova, palestra e organizar o Github.
 
 ## **Preparando o ambiente:** 
 
