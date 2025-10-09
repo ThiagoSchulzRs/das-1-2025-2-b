@@ -55,4 +55,4 @@ Exemplo: uma trading pode não precisar especificar uma baixa latência em todo 
 
 ### Características da Arquitetura Listadas (em Parte)
 
->>>>>>>>>>>>>>>>>>Parei aqui oh
+>>>>>>>>>>>>>>>>>>Parei aqui
