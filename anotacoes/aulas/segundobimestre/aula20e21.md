@@ -1,4 +1,4 @@
-# Aula do dia 20/10/2025. (NÃO FINALIZADO)
+# Aula do dia 20/10/2025 e 23/10. (NÃO FINALIZADO)
 
 ### **Revisão das aulas passadas (17/10):**
 
