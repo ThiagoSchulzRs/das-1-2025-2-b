@@ -2,7 +2,7 @@
 
 ### **Revisão das aulas passadas (23/10):**
 
-Anotar aqui
+Estilo de Arquitetura em Camadas, isolamento utilizando camadas abertas e fechadas.
 
 ## **Preparando o ambiente:** 
 
