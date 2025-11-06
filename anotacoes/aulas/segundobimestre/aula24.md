@@ -1,4 +1,4 @@
-# Aula do dia 03/11/2025 e 06/11/2025.
+# Aula do dia 03/11/2025.
 
 ### **Revisão das aulas passadas (30/10):**
 
