@@ -1,8 +1,8 @@
-# Aula do dia 13/11/2025.
+# Aula do dia 13/11/2025 e 17/11.
 
 ### **Revisão das aulas passadas (06/11):**
 
-Parte prática sobre arquitetura de Microkernel.
+Parte teorica sobre arquitetura de microsserviços.
 
 ## **Preparando o ambiente:** 
 
